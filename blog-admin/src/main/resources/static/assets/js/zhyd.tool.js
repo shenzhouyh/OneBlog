@@ -137,7 +137,7 @@
                             // 图片懒加载
                             var $lazyImg = $("img.lazy-img");
                             $lazyImg.lazyload({
-                                placeholder : appConfig.cmsPath + "/assets/images/loading.gif",
+                                placeholder : appConfig.cmsPath + "/assets/images/wechat.jpg",
                                 effect: "fadeIn",
                                 threshold: 100
                             });
