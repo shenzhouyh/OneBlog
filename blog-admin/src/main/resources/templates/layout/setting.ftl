@@ -114,7 +114,7 @@
                             <label class="control-label col-md-3 col-sm-3 col-xs-3" for="password">旧密码 <span
                                         class="required">*</span></label>
                             <div class="col-sm-7 col-md-7 col-xs-7">
-                                <input class="form-control" id="oldPassword" name="password" required="required"
+                                <input class="form-control" id="password" name="password" required="required"
                                        type="password" minlength="6" maxlength="15">
                             </div>
                         </div>
